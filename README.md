@@ -1,0 +1,1 @@
+I am doing a website that links to other receipts. By then, i will be able to enhance and strengthen my HTML and GIT skills. I am learning through The Odin Project Foudation Course. My future bosses, dont be scared by my codes since i am just a beginner.... :>
